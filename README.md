@@ -3,6 +3,5 @@
 ---
 # **ABOUT ME**
 <img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/picsnimichaelg.jpg?raw=true" width="200" height="250">
-![alt text](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/picsnimichaelg.jpg?raw=true)
----
-Hello, I'm Michael Vincent Calma. As a working student, life can get crazy. But I've found my balance with skateboarding, playing guitar, but i use most of my free time to rest. It's not always easy, but I'm learning to prioritize what matters, Just taking life one day at a time. 
+![ Hello, I'm Michael Vincent Calma. As a working student, life can get crazy. But I've found my balance with skateboarding, playing guitar, but i use most of my free time to rest. It's not always easy, but I'm learning to prioritize what matters, Just taking life one day at a time.](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/picsnimichaelg.jpg?raw=true)
+
