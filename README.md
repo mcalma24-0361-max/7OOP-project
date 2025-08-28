@@ -62,9 +62,9 @@ Hello, I'm Michael Vincent Calma. As a working student, life can get crazy. But 
 
 
 <img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/IG.jpg?raw=true" height="40"/> https://www.instagram.com/michaelg_62/
-
 </a>
 &nbsp;&nbsp;
+
 
 <img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/discord.png?raw=true" height="40"/> https://www.discordapp.com/users/vicenteamor
 </a>
