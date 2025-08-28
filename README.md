@@ -25,3 +25,44 @@ Hello, I'm Michael Vincent Calma. As a working student, life can get crazy. But 
 ## :pager: Language i used before
 <img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/c%20language.png?raw=true" height="50">
 &nbsp;&nbsp;
+<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/java.png?raw=true" height="50">
+&nbsp;&nbsp;
+
+---
+
+## :computer: My Projects
+### :envelope: Midterm
+
+---
+
+## :envelope: Finals
+
+---
+
+## :boy: Fun Fact about me:
+- I consider myself as an **Jack Of All Trade** because i can do so many things but I don't master any one of them:sweat_smile:
+- I've spent over 500 hours playing my favorite video game and I'm still not tired of it
+- I do some side hustles in my free time, even i have a part-time job
+
+---
+
+## :wink: Skills
+- Adaptability :people_hugging:
+- Teamwork :handshake:
+- Communication :speaking_head:
+- Resilience :fist_raised:
+
+---
+
+## :telephone_receiver: Click Below to Connect with Me!
+
+https://www.facebook.com/vincent.calma.545
+
+
+https://www.instagram.com/michaelg_62/
+
+
+https://www.discordapp.com/users/vicenteamor
+
+
+
