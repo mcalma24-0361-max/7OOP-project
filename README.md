@@ -40,7 +40,7 @@ Hello, I'm Michael Vincent Calma. As a working student, life can get crazy. But 
 ---
 
 ## :boy: Fun Fact about me:
-- I consider myself as an **Jack Of All Trade** because i can do so many things but I don't master any one of them:sweat_smile:
+- I consider myself as an **Jack Of All Trade** because i can do so many things but I don't master any one of them :sweat_smile:
 - I've spent over 500 hours playing my favorite video game and I'm still not tired of it
 - I do some side hustles in my free time, even i have a part-time job
 
@@ -56,13 +56,20 @@ Hello, I'm Michael Vincent Calma. As a working student, life can get crazy. But 
 
 ## :telephone_receiver: Click Below to Connect with Me!
 
-https://www.facebook.com/vincent.calma.545
+<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/fb.png?raw=true" height="40"/> https://www.facebook.com/vincent.calma.545
+</a>
+&nbsp;&nbsp; 
 
 
-https://www.instagram.com/michaelg_62/
+<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/IG.jpg?raw=true" height="40"/> https://www.instagram.com/michaelg_62/
 
+</a>
+&nbsp;&nbsp;
 
-https://www.discordapp.com/users/vicenteamor
+<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/discord.png?raw=true" height="40"/> https://www.discordapp.com/users/vicenteamor
+</a>
+&nbsp;&nbsp;
+
 
 
 
