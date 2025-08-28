@@ -22,4 +22,6 @@ Hello, I'm Michael Vincent Calma. As a working student, life can get crazy. But 
 
 ---
 
-##💬 Language i used before
+## :pager: Language i used before
+<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/c%20language.png?raw=true" height="50">
+&nbsp;&nbsp;
