@@ -47,8 +47,22 @@ Hello, I'm Michael Vincent Calma. As a working student, life can get crazy. But 
 [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/midtermlabtask5.pdf)
 
 ## ✉️ Finals
+- ✏️ **Final Lab Task 1:**
+[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask1.pdf)
+- ✏️ **Final Lab Task 2:**
+[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask2.pdf)
+- ✏️ **Final Lab Task 3:**
+[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask3.pdf)
+- ✏️ **Final Lab Task 4:**
+[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask4.pdf)
+- ✏️ **Final Lab Task 5:**
+[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask5.pdf)
+- ✏️ **Final Lab Task 6:**
+[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask6.pdf)
 
----
+
+
+
 
 ## 👨‍💻 Fun Fact about me:
 - I consider myself as an **Jack Of All Trade** because i can do so many things but I don't master any one of them 😅
