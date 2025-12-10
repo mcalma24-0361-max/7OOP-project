@@ -120,3 +120,10 @@ a:hover {
     margin-right: 20px;
     animation: rgbText 3s linear infinite;
 }
+.connect-icons img {
+  transition: transform 0.3s ease;
+}
+
+.connect-icons img:hover {
+  transform: scale(1.2);
+}
