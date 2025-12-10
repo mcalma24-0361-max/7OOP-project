@@ -1,101 +1,116 @@
-# My-7OOP-Laboratory-Project
+<!-- CYBERPUNK HEADER -->
+<div align="center">
+  <img src="https://svgshare.com/i/18gs.svg" width="450">
+</div>
 
-This is my digital portfolio! it's basically a scrapbook of my academic adventures This is where i share my school projects, assignments, and creative experiments. Take a look around and you'll see everything!
+<br>
 
----
-
-## *ABOUT ME👨*
-<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/IMG.jpg?raw=true" width="100" height="100">
-Hello, I'm Michael Vincent Calma. As a working student, life can get crazy. But I've found my balance with skateboarding, playing guitar, but i use most of my free time to rest😅. It's not always easy, but I'm learning to prioritize what matters, Just taking life one day at a time💯.
-
-### What i Believe in 🤔
-- Believe you can and you're halfway there!
-- It does not matter how slowly you go as long as you do not stop
-- The unexamined life is not worth living
-
-
- ---
- 
-  ## 📚 Education
- - **Senior High School:** Angeles City National Trade School
- - **Junior High School:** Angeles City National Trade School
- - **Elementary:** Santo Rosario Elementary School
+<div align="center">
+  <img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/IMG.jpg?raw=true" 
+       width="120" height="120" 
+       style="border-radius:50%; border:3px solid #00eaff;">
+  <h3>⚡ <strong>Michael Vincent Calma — 7OOP Laboratory Project</strong> ⚡</h3>
+  <p><i>“Taking life one day at a time while learning everything I can.”</i></p>
+</div>
 
 ---
 
-## 📟 Language i used before
-<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/c%20language.png?raw=true" height="50">
+# 🌌 About Me  
+Hello! I'm **Michael Vincent Calma**, a working student who balances skateboarding, guitar, gaming, school work, and most importantly — *rest* 😅.  
+Life gets crazy, but I'm learning to focus on what matters and take things one day at a time 💯.
+
+---
+
+# 🔮 What I Believe In  
+- 🌀 Believe you can and you're halfway there
+- ⚡ It does not matter how slowly you go as long as you do not stop
+- 💬 The unexamined life is not worth living
+
+
+---
+
+# 📚 Education  
+- 🎓 **Senior High School:** Angeles City National Trade School  
+- 🏫 **Junior High School:** Angeles City National Trade School  
+- 🧒 **Elementary:** Santo Rosario Elementary School  
+
+---
+
+# 📟 Programming Languages I Use  
+
+<p>
+<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/c%20language.png?raw=true" height="60">
 &nbsp;&nbsp;
-<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/java.png?raw=true" height="50">
-&nbsp;&nbsp;
+<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/java.png?raw=true" height="60">
+</p>
 
 ---
 
-## 🖥️ My Projects
-### ✉️ Midterm
-- ✏️ **Paired Lab Task:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/pairedlabtask.pdf)
-- ✏️ **Midterm Lab Task 1:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/midtermlabtask1.pdf)
-- ✏️ **Midterm Lab Task 2:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/midtermlabtask2.pdf)
-- ✏️ **Midterm Lab Task 3:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/midtermlabtask3.pdf)
-- ✏️ **Midterm Lab Task 4:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/midtermlabtask4.pdf)
-- ✏️ **Midterm Lab Task 5:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/midtermlabtask5.pdf)
+# 🖥️ My Projects  
+
+## ✉️ Midterm
+| Task | Link |
+|------|------|
+| ✏️ Paired Lab Task | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/pairedlabtask.pdf) |
+| ✏️ Midterm Lab Task 1 | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/midtermlabtask1.pdf) |
+| ✏️ Midterm Lab Task 2 | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/midtermlabtask2.pdf) |
+| ✏️ Midterm Lab Task 3 | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/midtermlabtask3.pdf) |
+| ✏️ Midterm Lab Task 4 | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/midtermlabtask4.pdf) |
+| ✏️ Midterm Lab Task 5 | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/midtermlabtask5.pdf) |
+
+---
 
 ## ✉️ Finals
-- ✏️ **Final Lab Task 1:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask1.pdf)
-- ✏️ **Final Lab Task 2:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask2.pdf)
-- ✏️ **Final Lab Task 3:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask3.pdf)
-- ✏️ **Final Lab Task 4:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask4.pdf)
-- ✏️ **Final Lab Task 5:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask5.pdf)
-- ✏️ **Final Lab Task 6:**
-[View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask6.pdf)
-
-
-
-
-
-## 👨‍💻 Fun Fact about me:
-- I consider myself as an **Jack Of All Trade** because i can do so many things but I don't master any one of them 😅
-- I've spent over 500 hours playing my favorite video game and I'm still not tired of it
-- I do some side hustles in my free time, even i have a part-time job
-- My favorite hobby is pretending I know what I’m doing🤪.
+| Task | Link |
+|------|------|
+| ✏️ Final Lab Task 1 | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask1.pdf) |
+| ✏️ Final Lab Task 2 | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask2.pdf) |
+| ✏️ Final Lab Task 3 | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask3.pdf) |
+| ✏️ Final Lab Task 4 | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask4.pdf) |
+| ✏️ Final Lab Task 5 | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask5.pdf) |
+| ✏️ Final Lab Task 6 | [View File](https://github.com/mcalma24-0361-max/7OOP-project/blob/main/FinalLabTask6.pdf) |
 
 ---
 
-## 😉 Skills
-- Adaptability 🤗
-- Teamwork 🤝
-- Communication 🗣️
-- Resilience ✊
-- Critical Thinking 🧠
+# 👨‍💻 Fun Facts About Me  
+- 🎮 I’ve spent over 500 hours on my favorite game — still not tired.
+- 💼 I do side hustles even with a part-time job.
+- 🛠 I consider myself a Jack Of All Trades 😅
+- 🤪 My favorite hobby? Pretending I know what I’m doing.
 
 ---
 
-## 📞 Click Below to Connect with Me!
+# 😉 Skills
+- 🌀 Adaptability
+- 🤝 Teamwork
+- 🗣 Communication
+- ✊ Resilience
+- 🧠 Critical Thinking
 
-<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/fb.png?raw=true" height="40"/> https://www.facebook.com/vincent.calma.545
-</a>
-&nbsp;&nbsp; 
+---
 
+# 📞 Connect With Me  
+<p>
+<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/fb.png?raw=true" height="40"/>  
+https://facebook.com/vincent.calma.545  
+<br><br>
 
-<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/IG.jpg?raw=true" height="40"/> https://www.instagram.com/michaelg_62/
-</a>
-&nbsp;&nbsp;
+<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/IG.jpg?raw=true" height="40"/>  
+https://instagram.com/michaelg_62  
+<br><br>
 
+<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/discord.png?raw=true" height="40"/>  
+https://discordapp.com/users/vicenteamor
+</p>
 
-<img src="https://github.com/mcalma24-0361-max/7OOP-project/blob/main/discord.png?raw=true" height="40"/> https://www.discordapp.com/users/vicenteamor
-</a>
-&nbsp;&nbsp;
+---
+
+<div align="center">
+
+### ⚡ *Thanks for visiting my Cyberpunk Portfolio!*  
+### ⭐ *More updates coming soon…*
+
+</div>
 
 
 
